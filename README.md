@@ -18,11 +18,7 @@
 
 <div align="center">
 <h3>
-I'm currently work as Software Developer at D Group 
 
-Currently I'm undertaking a Diploma in Full Stack Web Development via [Code Institute](https://codeinstitute.net/)
-
-I’m learning **Python**
 
 I enjoy programming and sharing knowledge
 
