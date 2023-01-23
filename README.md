@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi there 👋, I'm Rodrigo Dadam </h1>
-### <h3 align="center">A Software Developer with [SCRUM Master Certificate](https://www.credly.com/badges/9f29f9a5-1371-424b-8451-4cecca9cb1f3/linked_in) and passionate about technology</h3>
+### <h3 align="center">A [SCRUM Master Certificate](https://www.credly.com/badges/9f29f9a5-1371-424b-8451-4cecca9cb1f3/linked_in) and passionate about technology</h3>
 
 <br>
 
@@ -19,10 +19,6 @@
 <div align="center">
 <h3>
 
-
-I enjoy programming and sharing knowledge
-
-My goals are to learn new technology/programming languages.
 </h3>
 </div>
 
